@@ -25,4 +25,5 @@ Highly motivated DevOps Engineer passionate about building and maintaining scala
 As a Cloud & DevOps Engineer
 <p align="center">
 https://raw.githubusercontent.com/amira-abbas/amira-abbas/main/7041508.jpg
+
 </p>
