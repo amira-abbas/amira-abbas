@@ -6,8 +6,8 @@
 Highly motivated DevOps Engineer passionate about building and maintaining scalable, reliable, and secure systems. Possess the ability to automate and deploy software processes with a strong understanding of cloud computing, containerization, and CI/CD principles. Seeking a challenging role in a fast-paced, innovative environment where my skills, educational background, and experience can be fully utilized and enhanced.
 
 ## 📫 How to reach me
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amira-abbas-a0b362326/)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](amiraabbas19@gmail.com)
 
 ## 🛠️ Language and tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
@@ -24,6 +24,6 @@ Highly motivated DevOps Engineer passionate about building and maintaining scala
 
 As a Cloud & DevOps Engineer
 <p align="center">
-[https://raw.githubusercontent.com/amira-abbas/amira-abbas/main/7041508.jpg]
+<img src="https://raw.githubusercontent.com/amira-abbas/amira-abbas/main/7041508.jpg">
 
 </p>
