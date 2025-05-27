@@ -24,7 +24,7 @@ Highly motivated DevOps Engineer passionate about building and maintaining scala
 Check out my GitHub achievements! I've recently unlocked new badges through my private contributions, showcasing my dedication to DevOps and cloud engineering. See them on my profile!
 
 ## 📊 GitHub Stats
-![Amira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedashraf&show_icons=true&theme=radical)
+![Amira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amira-abbas&show_icons=true&theme=radical)
 
 ## Happy Coding 😄
 
